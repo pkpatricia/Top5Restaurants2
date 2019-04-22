@@ -1,0 +1,54 @@
+body {
+  font-size: 18px;
+  /*margin: 7rem;*/
+  /*margin: 0 auto;*/
+  font-family: 'Open Sans', sans-serif;
+  /*max-width: 100%;*/
+}
+
+h1 {
+
+  font-family: 'Montserrat', sans-serif;
+}
+
+a:link, a:visited { 
+  color: pink;
+  text-decoration: none;
+}
+
+
+
+div {
+    border: 1px solid black;
+    /* border width, style and color */
+    background-color: #FFF3FE;
+    margin: 3rem;
+    /*margin: 0 auto;*/
+    padding: 10rem;
+    max-width: 85%;
+}
+
+
+.lobsterh2 {
+  background-color: #D80076;
+  color: white;
+  padding: 2rem;
+  margin: 0 auto;
+}
+
+
+.lobsterp1 {
+  background-color: #3F47FE;
+  color: black;
+  padding: 2rem;
+  margin: 0 auto;
+
+}
+
+.lobsterp2 {
+  background-color: #7F47FA;
+  color: black;
+  padding: 2rem;
+  margin: 0 auto;
+
+}
